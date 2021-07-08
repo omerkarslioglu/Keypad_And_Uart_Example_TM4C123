@@ -30,3 +30,7 @@ TM4C123GH6PM Datasheet  : https://www.ti.com/lit/ds/symlink/tm4c123gh6pm.pdf?ts=
 Informative Text & Article About Uart On TM4C123 : https://microcontrollerslab.com/uart-communication-tm4c123-tiva-c-launchpad/
 
 Also you can look this example : https://github.com/omerkarslioglu/ATM_Module_Designing_On_TM4C123/blob/main/README.md
+
+Thanks for reading ...
+
+Ömer Karslıoğlu
