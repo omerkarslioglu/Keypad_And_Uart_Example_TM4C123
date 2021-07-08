@@ -1,4 +1,4 @@
-#Keypad And UART Example | TM4C123
+# Keypad And UART Example | TM4C123
 
 Main Purpose : Finds the average of two numbers entered from the keypad. Writes this value to the screen with putty (or another serial port interface program).
 
